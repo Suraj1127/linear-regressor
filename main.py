@@ -44,7 +44,7 @@ def main():
     linear_regression.validate()
 
     # Predict for the input data in test folder and save as output.csv in test folder
-    x_test = pd.read_csv('test/input.csv')['x'].values.reshape(-1,1)
+    x_test = pd.read_csv('test/input.csv').values[:, 1:]
     y_test = linear_regression.predict(x_test)
     df_predict = pd.DataFrame({'y': y_test.reshape(-1)})
     df_predict.to_csv('test/output.csv')
