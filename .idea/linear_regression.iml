@@ -4,6 +4,13 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.6.4 (~/anaconda3/bin/python)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="django_test" />
+    <orderEntry type="module" module-name="mysite" />
+    <orderEntry type="module" module-name="alaskafurgallery" />
+    <orderEntry type="module" module-name="ecomstore" />
+    <orderEntry type="module" module-name="alaskafurgallery" />
+    <orderEntry type="module" module-name="alaskafurgallery" />
+    <orderEntry type="module" module-name="django-oscar" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="renderExternalDocumentation" value="true" />

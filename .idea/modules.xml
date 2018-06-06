@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../alaskafurgallery/.idea/alaskafurgallery.iml" filepath="$PROJECT_DIR$/../alaskafurgallery/.idea/alaskafurgallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django-oscar/.idea/django-oscar.iml" filepath="$PROJECT_DIR$/../django-oscar/.idea/django-oscar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django_test/.idea/django_test.iml" filepath="$PROJECT_DIR$/../django_test/.idea/django_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ecomstore/.idea/ecomstore.iml" filepath="$PROJECT_DIR$/../ecomstore/.idea/ecomstore.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/linear_regression.iml" filepath="$PROJECT_DIR$/.idea/linear_regression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mysite/.idea/mysite.iml" filepath="$PROJECT_DIR$/../mysite/.idea/mysite.iml" />
     </modules>
   </component>
 </project>
