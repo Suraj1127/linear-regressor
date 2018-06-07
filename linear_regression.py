@@ -78,7 +78,7 @@ class LinearRegression:
         coef_of_determination = 1-np.sum((self.y_test-y_test_pred)**2)/np.sum((self.y_test-y_test_mean)**2)
 
         print("Coefficient of determination: {}".format(coef_of_determination))
-        print("Root mean squared error: {}".format(rmse))
+        print("Root mean squared error: {}\n".format(rmse))
 
 
 def main():
